@@ -2,3 +2,9 @@ name = "TFDS"
 uuid = "c24f99b0-3272-4199-bbf2-4c97cc8ad7b5"
 authors = ["us <rahmetsaritekin@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+
+[compat]
+julia = "≥ 0.7.0"
