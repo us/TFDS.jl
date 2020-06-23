@@ -61,4 +61,4 @@ end
     visualization
     __version__
 
-end # module
+end
