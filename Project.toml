@@ -1,6 +1,6 @@
 name = "TFDS"
 uuid = "c24f99b0-3272-4199-bbf2-4c97cc8ad7b5"
-authors = ["us <rahmetsaritekin@gmail.com>"]
+authors = ["Recep Ahmet SARITEKIN <rahmetsaritekin@gmail.com>"]
 version = "0.3.0"
 
 [deps]
